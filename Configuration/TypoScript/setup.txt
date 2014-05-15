@@ -1,0 +1,5 @@
+page {
+    includeJSFooter {
+        pmajaxsubmit = EXT:pmajaxsubmit/Resources/Public/Js/main.js
+    }
+}
